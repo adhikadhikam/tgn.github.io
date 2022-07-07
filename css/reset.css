@@ -1,0 +1,25 @@
+/*----------- Reset css start here ------------------*/
+::-moz-placeholder { opacity: 1; }
+a { text-decoration: none;  outline:none;transition: all .3s ease-out; -webkit-transition: all .3s ease-out; -moz-transition: all .3s ease-out; -ms-transition: all .3s ease-out; -o-transition: all .3s ease-out; }
+a:hover,a:focus {text-decoration: none; outline:none;}
+a.selected{ cursor:default;}
+a:hover.selected{ text-decoration:none;}
+img { border: none;}
+p,h1,h2,h3,h4,h5,h6{line-height: normal; margin: 0;padding: 0}
+h3 a, h4 a, h5 a, h6 a{text-decoration:underline;}
+ul, ol{ margin: 0;padding: 0 ;list-style: none;}
+button { border:none; }
+.clearfix:after, .clearfix:before { content: "."; clear: both; visibility: hidden; display: block; height: 0 }
+.clear{font-size:1%;height:0; width:0; float: none;	clear: both;}
+input{outline:none}
+input:focus, select:focus { outline-color:transparent;   outline: none; }
+input[type=submit], input[type=button]{ -webkit-appearance:none; -moz-appearance:none; appearance:none; cursor: pointer; }
+input::-ms-clear { display: none; }
+input[type="text"] { -webkit-appearance: none; -moz-appearance: textfield; margin: 0; box-sizing: border-box; width:100%;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre, form,fieldset,input,textarea,p,blockquote,th,td { padding: 0; margin: 0; }
+html{ height: 100%; width:100%; -webkit-text-size-adjust: 100%; }
+body{ overflow-x:hidden; height: 100%; font-size: inherit; line-height: normal; width:100%; max-width:1920px; margin:0 auto !important;  }
+
+* {  -webkit-tap-highlight-color: transparent;  border: none;  -webkit-border-radius: 0;  -webkit-box-sizing: border-box;  -moz-box-sizing: border-box;
+  box-sizing: border-box;  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;   -webkit-font-smoothing: antialiased;  list-style: none; }
+

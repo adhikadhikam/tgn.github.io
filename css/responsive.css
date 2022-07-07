@@ -1,0 +1,254 @@
+
+
+
+
+@media only screen and (min-width:1025px) and (max-width:1366px) {
+
+
+.h1{ font-size:60px; line-height: 65px; }
+.h2{ font-size:40px; line-height: 45px; }
+.h3{ font-size:35px; line-height: 40px; }
+.h4{ font-size:24px; line-height: 30px; }
+.fluid-container .form-container { width:90%;}
+
+
+
+}
+
+
+
+
+@media only screen and (max-width:1024px) {
+.mob{  display:block; } 
+.desk{ display:none; } 
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1024px) {
+
+
+.h1{ font-size:60px; line-height: 65px; }
+.h2{ font-size:40px; line-height: 45px; }
+.h3{ font-size:35px; line-height: 40px; }
+.h4{ font-size:24px; line-height: 30px; }
+
+
+
+.bg-container .spotlight-container { width:90%;}
+.bg-container .spotlight-container { width:90%;}
+.bg-container .spotlight-container { padding-top:35px;}   
+.bg-container .spotlight-container .text-box { padding-top: 20px;}
+.bg-container .form-container { padding-top:80px; width:90%;}
+.bg-container .form-container .form-box .form-list ul li {width: calc(50% - 5px); }
+.bg-container .form-container .form-box .form-list ul li.last { width:calc(50% - 5px); }
+.bg-container .term { text-align: center; padding-top: 55px; }
+
+ 
+h5 {  font-size: 18px; line-height: 24px; }
+
+.itinerary-box .itinerary-listing .right .copy { font-size:20px; line-height:20px;} 
+.itinerary-box .itinerary-listing .right .bold { font-size:20px; line-height:20px;}
+
+.itinerary-box .itinerary-listing .left .copy { font-size:20px; line-height:20px;} 
+.itinerary-box .itinerary-listing .left .bold { font-size:20px; line-height:20px;} 
+.itinerary-box .itinerary-listing .right ul li { padding: 15px 25px 30px 25px;}
+
+
+.chadar-bg-container{ margin-top: calc(100% - 145%);}
+.chadar-bg-container .blk-bg-container { padding-top: calc(100% - 65%);}
+ .bg-container .form-container .form-box .global-button { bottom: -50px;}
+    .bg-container .form-container .form-box .form-global-button { bottom: -50px;}  
+    
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+.h1{ font-size:50px; line-height: 55px; }
+.h2{ font-size:35px; line-height: 40px; }
+.h3{ font-size:28px; line-height: 35px; }
+.h4{ font-size:18px; line-height: 25px; }
+
+
+.bg-container .spotlight-container { width:90%;}
+.bg-container .spotlight-container { padding-top:35px;}   
+.bg-container .spotlight-container .text-box { padding-top: 20px;}
+.bg-container .form-container { padding-top:80px; width:90%;}
+.bg-container .form-container .form-box .form-list ul li { width: calc(50% - 5px); }
+.bg-container .form-container .form-box .form-list ul li.last { width:calc(50% - 5px); }
+.bg-container .term { text-align: center; padding-top: 55px; }
+
+.bg-container { background: url(../images/spotlight-mobile.jpg); height: 783px; } 
+
+
+h5 {  font-size: 16px; line-height: 22px; }
+
+
+.itinerary-box .itinerary-listing .right .copy { font-size:16px; line-height:20px;} 
+.itinerary-box .itinerary-listing .right .bold { font-size:16px; line-height:20px;}
+
+.itinerary-box .itinerary-listing .left .copy { font-size:16px; line-height:20px;} 
+.itinerary-box .itinerary-listing .left .bold { font-size:16px; line-height:20px;}
+    
+
+    
+.itinerary-box .itinerary-listing { margin-top:50px;}
+.itinerary-box { margin-bottom: 25px; }
+.gallery-container .gallery-box { padding:120px 0 0 0;}
+a.global-button { font-size:18px;bottom: -50px;}    
+a.global-button:after { top: 14px; }
+
+.chadar-bg-container { margin-top: calc(100% - 170%);}
+.chadar-bg-container .blk-bg-container {padding-top: calc(100% - 40%);}
+    
+ .bg-container .form-container .form-box .global-button { bottom: -55px;}
+ .bg-container .form-container .form-box .form-global-button { bottom: -55px;}    
+  
+}
+
+
+
+
+
+
+
+@media only screen and (max-width:767px) {
+
+.bg-container { background: url(../images/spotlight-mobile.jpg); height: 783px; background-size: cover; }      
+.h1{ font-size:40px; line-height: 45px; }
+.h2{ font-size:28px; line-height: 35px; }
+.h3{ font-size:22px; line-height: 28px; }
+.h4{ font-size:14px; line-height: 20px; }
+
+
+.bg-container .spotlight-container { width:90%; }
+.bg-container .spotlight-container { padding-top:35px;}
+.bg-container .spotlight-container .text-box { padding-top: 20px;}
+.bg-container .spotlight-container .right { font-size:18px;}
+
+.bg-container .spotlight-container .right:before { content: url(../images/tel-icon-mobile.png); left: -30px; width: 24px; height: 24px;}
+
+
+.bg-container .spotlight-container .text-box .p { font-size:18px;}    
+.bg-container .spotlight-container .text-box .with-bg{ font-size:18px; }
+
+.bg-container .form-container { width:90%; }
+
+
+.bg-container .form-container .form-box .header { font-size:18px; }  
+.bg-container .form-container { width:90%; padding-top: 40px;} 
+.bg-container .form-container .form-box { padding:15px;}
+.bg-container .form-container .form-box .form-list ul li {width: calc(100% - 5px); padding:10px;}
+.bg-container .form-container .form-box .form-list ul li input[type="text"] { font-size:14px;}
+.bg-container .form-container .form-box .form-list ul li select { font-size:14px; }
+.bg-container .form-container .form-box .form-list ul li.last {width: calc(100% - 5px); margin: 10px 0 40px 0;}
+.bg-container .form-container .form-box .form-list ul li .yesno { font-size:14px; }
+.form { font-size:14px; padding-left:20px; }
+.yesno.form>label { width:25%; float:left; }   
+.yesno.form>label:last-child {float:left; } 
+    
+.form-indicator { width:12px; height:12px; left: 0px; top:4px;}
+a.global-button { font-size:18px; padding: 10px 50px 10px 15px}
+a.global-button:after{ top: 50%; transform: translateY(-50%); right:20px;}
+
+        
+
+.bg-container .form-container .form-box .form-list ul li .yesno span { margin-right: 0px; float:left; width: calc(100% - 5px)}
+
+.bg-container .form-container .form-box .global-button { bottom: -35px;}
+ .bg-container .form-container .form-box .form-global-button { bottom: -35px;}     
+.bg-container .term { padding-top:25px; font-size:11px; text-align:center;}
+
+
+
+.zanskar-trek .h2 { text-align: center; margin-bottom:20px;}
+.zanskar-trek .h4 { text-align: center;}
+.zanskar-trek .sub-copy {text-align: center; font-size:16px; }
+
+.upper-text-box .h2 { text-align: center; margin-bottom:20px; }
+.upper-text-box .h4 { text-align: center; }
+.upper-text-box .sub-copy { font-size:16px; text-align: center; }
+
+.chadar-bg-container { background: url(../images/about-Mobile.jpg); height:1173px; background-size: cover;  } 
+.chadar-bg-container .blk-bg-container { padding-top: 210px;}  
+.chadar-bg-container .lower-text-box { padding:20px;}
+.chadar-bg-container .lower-text-box .sub-copy { font-size: 24px; line-height: 30px; padding-bottom:20px; }
+.chadar-bg-container .lower-text-box .header { font-size: 18px;}
+
+
+
+
+.social-box-content .copyright { font-size:14px;}    
+.tgn-copy { font-size: 14px; }
+.visit-btn { margin: 30px 0 30px 0; }
+.visit-btn a { font-size: 18px; }
+
+.condition-box .condition { width:90%;}
+
+
+.gallery-container .gallery-box { display: block;}
+.gallery-container .gallery-box .left { display: block; width:100%; }
+.gallery-container .gallery-box .small-box { display: block; }
+.gallery-container .gallery-box .small-box .left { width:100%;}
+.gallery-container .gallery-box .small-box .right { width:100%; }
+h5 {  font-size: 14px; line-height: 20px; }
+
+
+
+.itinerary-box .itinerary-listing .right ul li { width: 100%; float: left; padding: 15px 15px 45px 15px; } 
+.itinerary-box .itinerary-listing .left ul li { width: 100%; float: left; border-left: dashed 1px #a28a86; border-right:none; text-align:left; padding: 15px 15px 45px 15px; } 
+.itinerary-box .itinerary-listing .left ul li:before { left: -7px; } 
+
+.itinerary-box .itinerary-listing .right .copy { font-size:14px; line-height:20px; display: inline-table; vertical-align: middle; } 
+.itinerary-box .itinerary-listing .right .bold { font-size:14px; line-height:20px;}
+
+.itinerary-box .itinerary-listing .left .copy { font-size:14px; line-height:20px; display: inline-table; vertical-align: middle;  } 
+.itinerary-box .itinerary-listing .left .bold { font-size:14px; line-height:20px;}
+    
+
+.itinerary-box .itinerary-listing .right ul li div span { padding: 0 5px 0 5px; display: table-cell;}
+.itinerary-box .itinerary-listing .left ul li div span { padding: 0 5px 0 5px; display: table-cell; }
+    
+.itinerary-box .itinerary-listing .right ul li div span img { width:40px;}   
+.itinerary-box { margin-bottom: 50px; margin-left:calc(100% - 90%);}
+
+
+
+    
+    
+.condition-box .condition .header { font-size: 16px; }   
+.condition-box .condition .p { font-size: 12px; }
+ 
+.bg-container .form-container .form-box .form-list ul li .yesno { display:inline-block;}    
+    
+.ft-lt{ float:left; }    
+.lbl-wid { width:25%;}
+    
+    
+  
+  
+    .gallery-container .gallery-box img { height:300px; object-fit:cover;} 
+    
+}
+
+@media only screen and (max-width:580px) {
+.zanskar-trek .h4 { margin-top: 40px;} 
+.mb-20 { margin-bottom:20px !important;}
+}
+
+
+
+@media only screen and (max-width:480px) {
+
+
+.h1{ font-size:30px; line-height: 35px; }
+.h2{ font-size:21px; line-height: 25px; }
+.h3{ font-size:18px; line-height: 24px; }
+.h4{ font-size:14px; line-height: 20px; }    
+.fluid-container .text-box { top: calc( 100% - 70%);}
+.fluid-container .text-box .with-bg { font-size:17px; }
+.fluid-container .text-box .p { font-size:17px;} 
+.zanskar-trek {  margin-top: calc(100% - 55%);}
+
+} 
